@@ -1,0 +1,211 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #f2f4ff;
+  padding: 16px;
+  display: flex;
+  align-items: center;
+  font-family: "anton";
+}
+
+main {
+  font-family: "geologica";
+}
+
+color {
+  color: #5271ff;
+}
+
+div {
+  display: inline-block;
+}
+
+li {
+  list-style: none;
+}
+
+a{
+  text-decoration: none;
+  list-style: none;
+}
+
+figcaption{
+  display: flex;
+  justify-content: center;
+  width: 120px;
+  font-size: 65%;
+}
+
+nav{
+  display: flex;
+  flex-direction: row;
+}
+
+.pesquisar {
+  font-size: 17px;
+  color: white;
+  background-color: #5271ff;
+  border-radius: 3px;
+  width: 70px;
+  height: 20px;
+  padding: 10px;
+  padding-bottom: 14px;
+}
+
+.botao-pesquisar {
+  width: 48px;
+  height: 44px;
+  border-radius: 1px;
+  background-color: #5271ff;
+  border: 0;
+}
+
+.area-para-pesquisar {
+  width: 380px;
+  height: 41px;
+  font-size: 16px;
+  font-family: "anton";
+  padding-left: 10px;
+}
+
+.form-pesquisa {
+  display: flex;
+  justify-content: center;
+}
+
+.section-campos {
+  display: flex;
+  justify-content: center;
+  margin-left: 550px;
+}
+
+.titulo-apresentacao {
+  display: flex;
+  justify-content: center;
+  margin-top: 60px;
+  font-size: 160%;
+}
+
+.descricao-titulo {
+  margin-bottom: 60px;
+  display: flex;
+  justify-content: center;
+  font-size: 150%;
+  font-family: "anton";
+}
+
+.info-apresentacao {
+  margin-left: 120px;
+  margin-right: 120px;
+  margin-top: 0px;
+  font-size: 130%;
+}
+
+.texto-apresentacao {
+  width: 700px;
+  margin: 0;
+  border-right: 4px solid #5271ff;
+  padding-right: 45px;
+  text-align: justify;
+}
+
+.numeros-apresentacao {
+  width: 353px;
+  height: 50px;
+  float: right;
+}
+
+.artigo{
+  margin: 60px;
+  background-color: #f2f4ff;
+  border-radius: 12px;
+  
+}
+
+.artigo-em-destaque {
+  margin: 20px;
+  height: 360px;
+  justify-content: space-between;
+  padding: 15px;
+  font-size: 120%;
+ 
+}
+
+.texto-art-destaque {
+  margin-top: 20px;
+  width: 1040px;
+  text-align: justify;
+}
+
+.img-lewis {
+  width: 120px;
+  margin-top: 82px;
+  float: right;
+}
+
+.eventos-atuais{
+  margin-left: 115px;
+  margin-right: 100px;
+  border-radius: 12px;
+  background-color: #f2f4ff;
+}
+
+.text-eventos-atuais{
+  margin: 35px;
+  font-size: 120%;
+  width: 800px;
+  text-align: justify;  
+}
+
+.img-ferroviaria{
+  margin: 35px;
+}
+
+.text-img-ferroviaria{
+  display: flex;
+  justify-content: center;
+  width: 220px;
+  font-size: 80%;
+}
+
+.sobre-nos{
+  margin: 85px;
+  background-color: #e4e9ff;
+  border-radius: 12px;
+}
+
+.text-sobre-nos{
+  margin: 35px;
+  font-family: 'geologica';
+  font-size: 130%;
+  text-align: justify;
+}
+
+.titulo-sobre-nos{
+  padding: 7px;
+  border-bottom: 3px #5271ff solid;
+  font-family: 'geologica';
+  font-size: 120%;
+  width: 125px;
+}
+
+.text-footer{
+  display: flex;
+  padding: 20px;
+  background-color: #f2f4ff;
+  font-family: 'anton';
+  flex-direction: column;
+}
+
+.div1-footer{
+  display: flex;
+  justify-content: center;
+}
+
+.div2-footer{
+  display: flex;
+  justify-content: center;
+}

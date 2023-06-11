@@ -1,0 +1,95 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+
+  .linha-de-categorias{
+      margin-right: 130px;
+      margin-left: 130px;
+      margin-top: 70px;
+      margin-bottom: 70px;
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      background-color: #f2f4ff;
+      border-radius: 12px;
+      padding: 40px;
+  }
+  
+  .cat-arte{
+    width: 111px ;
+    border-top: 6px solid #dcdc38;
+    display: flex;
+    justify-content: center;
+    font-family: 'anton';
+  }
+  
+  .cat-biografias{
+    width: 111px ;
+    border-top: 6px solid #36bc4e;
+    display: flex;
+    justify-content: center;
+    font-family: 'anton';
+    
+  }
+  
+  .cat-ciencia{
+    width: 111px ;
+    border-top: 6px solid #1f8044;
+    display: flex;
+    justify-content: center;
+    font-family: 'anton';
+    
+  }
+  
+  .cat-filosofia{
+    width: 111px ;
+    border-top: 6px solid #269f87;
+    display: flex;
+    justify-content: center;
+    font-family: 'anton';
+  }
+  
+  .cat-geografia{
+    width: 111px ;
+    border-top: 6px solid #2fa7cf;
+    display: flex;
+    justify-content: center;
+    font-family: 'anton';
+    
+  }
+  
+  .cat-historia{
+    width: 113px ;
+    border-top: 6px solid #5166cd;
+    display: flex;
+    justify-content: center;
+    font-family: 'anton';
+    
+  }
+  
+  .cat-matematica{
+    width: 113px ;
+    border-top: 6px solid #ab52ff;
+    display: flex;
+    justify-content: center;
+    font-family: 'anton';
+    
+  }
+  
+  .cat-sociedade{
+    width: 113px ;
+    border-top: 6px solid #dd2828;
+    display: flex;
+    justify-content: center;
+    font-family: 'anton';
+    
+  }
+  
+  .cat-tecnologia{
+    width: 111px ;
+    border-top: 6px solid #7d2929;
+    display: flex;
+    justify-content: center; 
+    font-family: 'anton';
+  }

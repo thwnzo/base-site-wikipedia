@@ -1,0 +1,85 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .link-arte:hover{
+    display: flex;
+    justify-content: center;
+    font-family: 'anton';
+    font-size: 20px;
+    background-color: #dcdc38;
+    color: #f2f4ff;
+  }
+  
+  .link-biografias:hover{
+    display: flex;
+    justify-content: center;
+    font-family: 'anton';
+    font-size: 20px;
+    background-color: #36bc4e;
+    color:#f2f4ff;
+  }
+  
+  .link-ciencia:hover{
+    display: flex;
+    justify-content: center;
+    font-family: 'anton';
+    font-size: 20px;
+    background-color: #1f8044;
+    color:#f2f4ff;
+  }
+  
+  .link-filosofia:hover{
+    display: flex;
+    justify-content: center;
+    font-family: 'anton';
+    font-size: 20px;
+    background-color: #269f87;
+    color:#f2f4ff;
+  }
+  
+  .link-geografia:hover{
+    display: flex;
+    justify-content: center;
+    font-family: 'anton';
+    font-size: 20px;
+    background-color: #2fa7cf;
+    color:#f2f4ff;
+  }
+  
+  .link-historia:hover{
+    display: flex;
+    justify-content: center;
+    font-family: 'anton';
+    font-size: 20px;
+    background-color: #5166cd;
+    color:#f2f4ff;
+  }
+  
+  .link-matematica:hover{
+    display: flex;
+    justify-content: center;
+    font-family: 'anton';
+    font-size: 20px;
+    background-color: #ab52ff;
+    color:#f2f4ff;
+  }
+  
+  .link-sociedade:hover{
+    display: flex;
+    justify-content: center;
+    font-family: 'anton';
+    font-size: 20px;
+    background-color: #dd2828;
+    color:#f2f4ff;
+  }
+  
+  .link-tecnologia:hover{
+    display: flex;
+    justify-content: center;
+    font-family: 'anton';
+    font-size: 20px;
+    background-color: #7d2929;
+    color:#f2f4ff;
+  }
